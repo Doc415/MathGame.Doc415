@@ -1,0 +1,14 @@
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\bin\Debug\net8.0\MathGame.Doc415.exe
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\bin\Debug\net8.0\MathGame.Doc415.deps.json
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\bin\Debug\net8.0\MathGame.Doc415.runtimeconfig.json
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\bin\Debug\net8.0\MathGame.Doc415.dll
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\bin\Debug\net8.0\MathGame.Doc415.pdb
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\MathGame.Doc415.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\MathGame.Doc415.AssemblyInfoInputs.cache
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\MathGame.Doc415.AssemblyInfo.cs
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\MathGame.Doc415.csproj.CoreCompileInputs.cache
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\MathGame.Doc415.dll
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\refint\MathGame.Doc415.dll
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\MathGame.Doc415.pdb
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\MathGame.Doc415.genruntimeconfig.cache
+C:\Users\sipah\source\repos\MathGame.Doc415\MathGame.Doc415\obj\Debug\net8.0\ref\MathGame.Doc415.dll
